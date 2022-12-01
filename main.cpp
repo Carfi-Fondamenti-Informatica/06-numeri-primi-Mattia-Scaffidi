@@ -8,11 +8,11 @@ int n ;
 cin>> n;
 bool risultato= funzione(n);
 if (risultato == true){
-    cout<<"il numero e' primo"<<endl;
+    cout<<"numero primo"<<endl;
 }
 else
 {
-    cout<<"il numero non e' primo"<<endl;
+    cout<<"numero non primo"<<endl;
 }
 
 
